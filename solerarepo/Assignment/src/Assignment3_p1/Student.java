@@ -17,6 +17,8 @@ public class Student {
         this.fname = fname;
         this.cgpa = cgpa;
     }
+	
+	
     public int getId() {
         return id;
     }
